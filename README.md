@@ -10,7 +10,7 @@
 
 - 📫 How to reach me lindelanilethabo21@gmail.com
 
-- ⚡ Fun fact. The first computer mouse was made from wood, lol
+- ⚡ Fun fact. The first computer mouse was made from wood, lol.
 
 
 <h3 align="left">Languages and Tools:</h3>
