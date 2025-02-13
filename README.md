@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently learning Data Stack, cool things i promise but I'm always looking to grow, whether through collaborating on open-source projects or learning new frameworks and tools to stay ahead in the fast-evolving tech world.
 
-- 💬 Ask me about C++, semi-pro glazer for real.
+- 💬 Ask me about C++ and SQL, semi-pro glazer for real.
 
 - 📫 How to reach me lindelanilethabo21@gmail.com
 
