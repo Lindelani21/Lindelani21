@@ -4,13 +4,13 @@
 
 - 💻 I love coding in C#, working with Xamarin for mobile apps, and creating seamless user experiences. I've also dabbled in front-end web technologies and database design.
   
-- 🌱 I’m currently learning Data Stack, cool things i promise but I'm always looking to grow, whether through collaborating on open-source projects or learning new frameworks and tools to stay ahead in the fast-evolving tech world.
+- 🌱 I’m currently learning Data Stack, cool things I promise but I'm always looking to grow, whether through collaborating on open-source projects or learning new frameworks and tools to stay ahead in the fast-evolving tech world.
 
 - 💬 Ask me about C++ and SQL, semi-pro glazer for real.
 
 - 📫 How to reach me lindelanilethabo21@gmail.com
 
-- ⚡ Fun fact. The first computer mouse was made from wood, lol.
+- ⚡ Controversial opinion? Python is overrated 
 
 
 <h3 align="left">Languages and Tools:</h3>
