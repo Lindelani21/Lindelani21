@@ -8,7 +8,7 @@
 
 - 💬 Ask me about C++ and SQL, semi-pro glazer for real.
 
-- 📫 How to reach me lindelanilethabo21@gmail.com
+- 📫 How to reach me lindelanilethabo21@gmail.com , [Discord](https://discordapp.com/users/943541117071278091)
 
 - ⚡ Controversial opinion? Python is overrated 
 
