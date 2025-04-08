@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lindelani</h1>
+<h1 align="center">Hi 👋, I'm Lindelani Lethabo</h1>
 <h3 align="center">I am a backend developer, who does frontend projects once in a while</h3>
 <h3 align="center">My expertise lies in web and mobile app development, database creation & management, and threat & risk analysis.</h3>
 
