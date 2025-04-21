@@ -2,7 +2,7 @@
 <h3 align="center">I'm a backend developer, who does frontend projects once in a while</h3>
 <h3 align="center">My expertise lies in web and mobile app development, database creation and management, and threat & risk analysis.</h3>
 
-- 💻 I love coding in C# & Java, working with Xamarin for mobile apps, and creating seamless user experiences. I've also dabbled in front end web technologies and database design.
+- 💻 I love coding in Java, working with Xamarin for mobile apps, and creating seamless user experiences. I've also dabbled in front end web technologies and database design.
   
 - 🌱 I’m currently learning Data Stack, cool things I promise but I'm always looking to grow, whether through collaborating on open-source projects or learning new frameworks and tools to stay ahead in the fast-evolving tech world.
 
